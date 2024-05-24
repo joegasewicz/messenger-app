@@ -21,7 +21,8 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(${PROJECT_NAME}
         main.cc
-#        controllers/api_v1_User.h
+        main.cc
+        #        controllers/api_v1_User.h
 #        controllers/api_v1_User.cc
 )
 
