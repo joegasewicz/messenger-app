@@ -4,5 +4,5 @@ A Mobile Messenger POC app.
 
 ### Tech-stack
 - Drogon / C++
-- Flutter / Dart
+- WxWidgets / C++
 
